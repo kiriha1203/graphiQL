@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b83c94-e507-4204-a594-385e39646c61" name="Default Changelist" comment="" />
+    <list default="true" id="81b83c94-e507-4204-a594-385e39646c61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/graphql_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/graphql_controller.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Rails.Development: GraphQlL2">
     <configuration name="Development: GraphQlL2" type="RailsRunConfigurationType" factoryName="Rails">
@@ -134,14 +143,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589022168519</updated>
-      <workItem from="1589022170021" duration="508000" />
+      <workItem from="1589022170021" duration="2041000" />
     </task>
+    <task id="LOCAL-00001" summary="Add GraphiQL">
+      <created>1589022902262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589022902262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add GraphiQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add GraphiQL" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="754" y="89" key="CommitChangelistDialog2" timestamp="1589022902025">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="754" y="89" key="CommitChangelistDialog2/0.23.1680.976@0.23.1680.976" timestamp="1589022902025" />
     <state width="994" height="190" key="GridCell.Tab.0.bottom" timestamp="1589022176860">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
